@@ -1,0 +1,15 @@
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\bin\Debug\net6.0\ProjetoMD2.exe
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\bin\Debug\net6.0\ProjetoMD2.deps.json
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\bin\Debug\net6.0\ProjetoMD2.runtimeconfig.json
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\bin\Debug\net6.0\ProjetoMD2.dll
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\bin\Debug\net6.0\ProjetoMD2.pdb
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\obj\Debug\net6.0\ProjetoMD2.csproj.AssemblyReference.cache
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\obj\Debug\net6.0\ProjetoMD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\obj\Debug\net6.0\ProjetoMD2.AssemblyInfoInputs.cache
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\obj\Debug\net6.0\ProjetoMD2.AssemblyInfo.cs
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\obj\Debug\net6.0\ProjetoMD2.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\obj\Debug\net6.0\ProjetoMD2.dll
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\obj\Debug\net6.0\refint\ProjetoMD2.dll
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\obj\Debug\net6.0\ProjetoMD2.pdb
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\obj\Debug\net6.0\ProjetoMD2.genruntimeconfig.cache
+C:\Users\Angelo\Documents\devinHouse\ProjetoMD2\obj\Debug\net6.0\ref\ProjetoMD2.dll
